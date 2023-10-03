@@ -4,7 +4,7 @@ CS Student
 ----------
 * I am studying Informatics in Leipzig  
 * 🌍  I'm based in Stuttgart 
-* 🧠  I'm learning HTML/CSS
+* 🧠  I'm learning HTML/CSS/JavaScript
 
 ### Skills  
 
