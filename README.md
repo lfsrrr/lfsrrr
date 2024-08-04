@@ -2,7 +2,7 @@
 
 CS Student
 ----------
-* 👨🏽‍🎓  I am studying Informatics in Leipzig  
+* 👨🏽‍🎓  I am studying Informatics in Karlsruhe  
 * 🌍  I'm based in Stuttgart 
 * 🧠  I'm learning HTML/CSS/JavaScript
 
