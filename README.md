@@ -1,4 +1,4 @@
-# Hi, my name is Louis 
+# Hi, my name is Louis 👋
 
 business informatics student
 ----------
