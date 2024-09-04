@@ -1,6 +1,6 @@
 # Hi, my name is Louis 
 
-CS Student
+business informatics student
 ----------
 * 👨🏽‍🎓  I am studying Buisness Informatics in Karlsruhe  
 * 🌍  I'm based in Karlsruhe 
