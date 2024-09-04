@@ -1,4 +1,4 @@
-# Hi, My name is Louis 
+# Hi, my name is Louis 
 
 CS Student
 ----------
