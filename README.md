@@ -4,7 +4,7 @@ business informatics student
 ----------
 * 👨🏽‍🎓  I am studying Buisness Informatics in Karlsruhe  
 * 🌍  I'm based in Karlsruhe 
-* 🧠  I'm learning Java
+* 🧠  I'm learning Java and C#
 
 ### Skills  
 
