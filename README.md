@@ -2,9 +2,9 @@
 
 CS Student
 ----------
-* 👨🏽‍🎓  I am studying Informatics in Karlsruhe  
-* 🌍  I'm based in Stuttgart 
-* 🧠  I'm learning HTML/CSS/JavaScript
+* 👨🏽‍🎓  I am studying Buisness Informatics in Karlsruhe  
+* 🌍  I'm based in Karlsruhe 
+* 🧠  I'm learning Java
 
 ### Skills  
 
